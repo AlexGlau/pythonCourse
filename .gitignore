@@ -1,7 +1,9 @@
 .vscode
+env
 bot-token.txt
 variables
 simpleTypes
 dicts
 */practice.py
 simpleTypes.py
+*.txt
