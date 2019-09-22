@@ -4,7 +4,10 @@ bot-token.txt
 variables
 simpleTypes
 dicts
-*/practice.py
+__pycache__
+practice.py
+pr.py
 simpleTypes.py
 *.txt
 *.log
+*.pyc
